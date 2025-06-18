@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f4f9;
+  margin: 0;
+  padding: 2em;
+}
+
+.container {
+  background: white;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  max-width: 400px;
+  margin: auto;
+}
+
+.moods button {
+  font-size: 2em;
+  margin: 0.2em;
+  cursor: pointer;
+}
+
+.current-mood {
+  margin-top: 1em;
+  font-weight: bold;
+}
